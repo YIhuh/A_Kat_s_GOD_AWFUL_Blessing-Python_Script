@@ -1,5 +1,5 @@
 # A_Kat_s_GOD_AWFUL_Blessing-Python_Script
-A Kat’s (GOD AWFUL!!!) Blessing original image acquisition script
+A Kat’s (GOD AWFUL!!!) Blessing original image acquisition script（From:https://a-kats-god-awful-blessing.mehgazone.com/2024/11/08/a-kats-god-awful-blessing-prologue/）
 
 Need：Python 3.13
 
